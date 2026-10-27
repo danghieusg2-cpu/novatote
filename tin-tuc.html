@@ -1,0 +1,370 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tin tức NOVA TOTE - Cập nhật câu chuyện thương hiệu, xu hướng thời trang và những thông tin mới.">
+  <title>Tin tức | NOVA TOTE</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="tin-tuc.css">
+
+  <script src="script.js" defer></script>
+  <script src="tin-tuc.js" defer></script>
+<style>.nova-editorial{max-width:1140px;margin:55px auto;padding:0 22px}.nova-editorial h1{font-size:clamp(30px,4vw,48px);line-height:1.2}.nova-editorial .lead{color:#596154;font-size:18px}.nova-article-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;margin:30px 0}.nova-article-card{border:1px solid #e3e4dc;border-radius:15px;overflow:hidden;background:#fff;box-shadow:0 6px 25px #20281b0c}.nova-article-card img{width:100%;aspect-ratio:4/3;object-fit:cover}.nova-article-card .inside{padding:21px}.nova-article-card h2{font-size:21px;margin:9px 0}.nova-article-card a,.nova-back{color:#2d422b;font-weight:700}.nova-article-card p{line-height:1.6}.nova-full-article{max-width:780px;margin:45px auto 65px;padding:0 22px}.nova-full-article h1{font-size:clamp(30px,4vw,44px);line-height:1.25}.nova-full-article p{font-size:17px;line-height:1.9}.nova-full-article .hero-art{width:100%;max-height:410px;object-fit:cover;border-radius:18px;margin:20px 0}.nova-pill{font-size:12px;letter-spacing:1px;text-transform:uppercase;color:#69735d}.nova-actions{display:flex;gap:16px;flex-wrap:wrap;margin-top:28px}.nova-actions a{padding:12px 20px;border:1px solid #33442d;border-radius:6px;text-decoration:none;color:#33442d}</style><style id="nova-social-style">.nova-social-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px}.nova-social-links a{color:inherit;text-decoration:underline;text-underline-offset:3px}.nova-zalo-float{position:fixed;right:20px;bottom:22px;z-index:99999;display:flex;align-items:center;justify-content:center;gap:7px;background:#0068ff;color:#fff!important;text-decoration:none!important;border-radius:999px;padding:13px 19px;font:700 15px Arial,sans-serif;box-shadow:0 6px 22px #0003;transition:transform .2s}.nova-zalo-float:hover{transform:translateY(-3px);background:#0055d4}@media(max-width:600px){.nova-zalo-float{right:12px;bottom:14px;padding:12px 15px}}</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="announcement">
+    NOVA TOTE – MỞ RỘNG KHÔNG GIAN, MỞ RỘNG TRẢI NGHIỆM
+  </div>
+
+  <div class="header-inner container">
+
+    <a class="brand" href="index.html">
+      <img src="images/logo.png" alt="NOVA TOTE"
+           onerror="this.style.display='none'">
+      <span>NOVA TOTE</span>
+    </a>
+
+    <button class="menu-toggle" id="menuToggle"
+            aria-label="Mở menu"
+            aria-expanded="false">☰</button>
+
+    <nav class="main-nav" id="mainNav" aria-label="Menu chính">
+      <a href="index.html">Trang chủ</a>
+      <a href="cau-chuyen.html">Câu chuyện</a>
+      <a href="san-pham.html">Sản phẩm</a>
+      <a href="blog.html">Blog</a>
+      <a class="active" href="tin-tuc.html">Tin tức</a>
+      <a href="lien-he.html">Liên hệ</a>
+    </nav>
+
+    <button class="cart-trigger" id="cartOpen"
+            aria-label="Mở giỏ hàng">
+      <svg width="25" height="25" viewBox="0 0 24 24"
+           fill="none" stroke="currentColor"
+           stroke-width="1.8"
+           stroke-linecap="round"
+           stroke-linejoin="round">
+        <circle cx="9" cy="21" r="1"></circle>
+        <circle cx="20" cy="21" r="1"></circle>
+        <path d="M1 1h4l2.5 13h13l2-9H6"></path>
+      </svg>
+      <span class="cart-count" id="cartCount">0</span>
+    </button>
+
+  </div>
+</header>
+
+<main>
+
+<!-- BANNER -->
+<section class="news-hero">
+  <img src="images/product-4.jpg"
+       alt="Tin tức NOVA TOTE"
+       class="news-hero-image">
+
+  <div class="news-hero-overlay"></div>
+
+  <div class="container news-hero-content">
+    <span class="eyebrow">NOVA NEWS & UPDATES</span>
+    <h1>TIN TỨC NOVA TOTE</h1>
+    <p>
+      Cập nhật những câu chuyện mới, xu hướng thời trang
+      và thông tin thú vị từ NOVA TOTE.
+    </p>
+  </div>
+</section>
+
+<!-- BREADCRUMB -->
+<div class="container news-breadcrumb">
+  <a href="index.html">Trang chủ</a>
+  <span>/</span>
+  <strong>Tin tức</strong>
+</div>
+
+<!-- INTRO -->
+<section class="news-intro container">
+  <span class="eyebrow">WHAT'S NEW AT NOVA</span>
+  <h2>CẬP NHẬT TỪ NOVA TOTE</h2>
+  <p>
+    Nơi chia sẻ những thông tin mới, góc nhìn thời trang
+    và câu chuyện về chiếc túi tote trong cuộc sống hiện đại.
+  </p>
+  <div class="news-line"></div>
+</section>
+
+<!-- DANH SÁCH TIN TỨC -->
+<section class="news-section" id="news-list">
+  <div class="container">
+
+    <div class="news-section-title">
+      <div>
+        <span class="eyebrow">LATEST STORIES</span>
+        <h2>TIN TỨC MỚI NHẤT</h2>
+      </div>
+      <span class="news-count">04 BÀI VIẾT</span>
+    </div>
+
+    <!-- BÀI VIẾT NỔI BẬT -->
+    <article class="news-featured">
+      <a href="tin-tuc.html?post=1#news-detail"
+         class="news-featured-image">
+        <img src="images/tt1.png"
+             alt="Túi tote và phong cách giới trẻ">
+      </a>
+
+      <div class="news-featured-content">
+        <span class="news-category">TIN NỔI BẬT</span>
+
+        <div class="news-meta">
+          <span>NOVA TOTE</span>
+          <span>25/10/2026</span>
+          <span>◉ 60 lượt xem</span>
+        </div>
+
+        <h3>
+          <a href="tin-tuc.html?post=1#news-detail">
+            NOVA TOTE – Khi chiếc túi tote trở thành
+            phụ kiện quen thuộc của giới trẻ
+          </a>
+        </h3>
+
+        <p>
+          Túi tote ngày càng xuất hiện nhiều trong
+          đời sống thường ngày, từ giảng đường đến
+          công sở và những buổi dạo phố.
+          Cùng khám phá sự linh hoạt của phụ kiện này.
+        </p>
+
+        <a class="news-read-btn"
+           href="tin-tuc.html?post=1#news-detail">
+          ĐỌC TIN TỨC →
+        </a>
+      </div>
+    </article>
+
+    <!-- 3 BÀI VIẾT CÒN LẠI -->
+    <div class="news-grid">
+
+      <!-- BÀI 2 -->
+      <article class="news-card">
+        <a class="news-card-image"
+           href="tin-tuc.html?post=2#news-detail">
+          <img src="images/tt2.jpg"
+               alt="Xu hướng sử dụng túi tote"
+               loading="lazy">
+          <span class="news-image-tag">XU HƯỚNG</span>
+        </a>
+
+        <div class="news-card-content">
+          <div class="news-meta">
+            <span>21/10/2026</span>
+            <span>◉ 72 lượt xem</span>
+          </div>
+
+          <h3>
+            <a href="tin-tuc.html?post=2#news-detail">
+              Xu hướng sử dụng túi tote trong
+              thời trang và cuộc sống hiện đại
+            </a>
+          </h3>
+
+          <p>
+            Khám phá cách túi tote kết hợp cùng
+            phong cách thời trang và nhu cầu sử dụng
+            hằng ngày.
+          </p>
+
+          <a class="news-read-more"
+             href="tin-tuc.html?post=2#news-detail">
+            ĐỌC THÊM →
+          </a>
+        </div>
+      </article>
+
+      <!-- BÀI 3 -->
+      <article class="news-card">
+        <a class="news-card-image"
+           href="tin-tuc.html?post=3#news-detail">
+          <img src="images/tt3.jpg"
+               alt="Câu chuyện thương hiệu NOVA TOTE"
+               loading="lazy">
+          <span class="news-image-tag">THƯƠNG HIỆU</span>
+        </a>
+
+        <div class="news-card-content">
+          <div class="news-meta">
+            <span>16/10/2026</span>
+            <span>◉ 84 lượt xem</span>
+          </div>
+
+          <h3>
+            <a href="tin-tuc.html?post=3#news-detail">
+              NOVA TOTE và hành trình xây dựng
+              phong cách thương hiệu riêng
+            </a>
+          </h3>
+
+          <p>
+            Tìm hiểu thông điệp và những giá trị
+            mà NOVA TOTE mong muốn mang đến
+            cho khách hàng.
+          </p>
+
+          <a class="news-read-more"
+             href="tin-tuc.html?post=3#news-detail">
+            ĐỌC THÊM →
+          </a>
+        </div>
+      </article>
+
+      <!-- BÀI 4 -->
+      <article class="news-card">
+        <a class="news-card-image"
+           href="tin-tuc.html?post=4#news-detail">
+          <img src="images/tt4.jpg"
+               alt="Bộ sưu tập túi NOVA TOTE"
+               loading="lazy">
+          <span class="news-image-tag">SẢN PHẨM</span>
+        </a>
+
+        <div class="news-card-content">
+          <div class="news-meta">
+            <span>09/10/2026</span>
+            <span>◉ 95 lượt xem</span>
+          </div>
+
+          <h3>
+            <a href="tin-tuc.html?post=4#news-detail">
+              Khám phá bộ sưu tập túi tote dành cho
+              học tập, công việc và dạo phố
+            </a>
+          </h3>
+
+          <p>
+            Những gợi ý lựa chọn túi tote phù hợp
+            với các hoạt động và phong cách
+            cá nhân.
+          </p>
+
+          <a class="news-read-more"
+             href="tin-tuc.html?post=4#news-detail">
+            ĐỌC THÊM →
+          </a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<!-- NỘI DUNG CHI TIẾT BÀI VIẾT -->
+<section class="news-detail" id="news-detail" hidden>
+  <div class="container">
+    <a href="tin-tuc.html#news-list" class="news-back">
+      ← QUAY LẠI DANH SÁCH TIN TỨC
+    </a>
+    <article id="newsArticleContent"></article>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="news-cta">
+  <div class="container">
+    <span class="eyebrow">EXPLORE NOVA TOTE</span>
+    <h2>KHÁM PHÁ BỘ SƯU TẬP NOVA</h2>
+    <p>
+      Những chiếc túi đồng hành cùng phong cách
+      và những trải nghiệm hằng ngày của bạn.
+    </p>
+    <a href="san-pham.html" class="btn btn-primary">
+      KHÁM PHÁ SẢN PHẨM →
+    </a>
+  </div>
+</section>
+
+<section class="nova-editorial"><p class="nova-pill">NOVA TOTE JOURNAL</p><h1>Xem thêm tin tức</h1><p class="lead">Những câu chuyện và thông điệp chính thức của thương hiệu.</p><div class="nova-article-grid"><article class="nova-article-card"><a href="tin-tuc-bai-1.html"><img src="images/tt5.png" alt="Minh họa NOVA TOTE"></a><div class="inside"><span class="nova-pill">Truyền thông thương hiệu</span><h2><a href="tin-tuc-bai-1.html">NOVA TOTE: Mở rộng không gian, mở rộng trải nghiệm</a></h2><p>Giới thiệu định hướng và tinh thần thương hiệu</p><a href="tin-tuc-bai-1.html">Đọc bài viết →</a></div></article><article class="nova-article-card"><a href="tin-tuc-bai-2.html"><img src="images/tt6.png" alt="Minh họa NOVA TOTE"></a><div class="inside"><span class="nova-pill">Truyền thông thương hiệu</span><h2><a href="tin-tuc-bai-2.html">Bốn sắc màu NOVA TOTE và câu chuyện thể hiện cá tính</a></h2><p>Khám phá bộ sưu tập hiện có của thương hiệu</p><a href="tin-tuc-bai-2.html">Đọc bài viết →</a></div></article><article class="nova-article-card"><a href="tin-tuc-bai-3.html"><img src="images/tt7.png" alt="Minh họa NOVA TOTE"></a><div class="inside"><span class="nova-pill">Truyền thông thương hiệu</span><h2><a href="tin-tuc-bai-3.html">Từ quán cà phê đến lịch trình bận rộn: NOVA TOTE đồng hành mỗi ngày</a></h2><p>Thông điệp về thiết kế và tính ứng dụng</p><a href="tin-tuc-bai-3.html">Đọc bài viết →</a></div></article><article class="nova-article-card"><a href="tin-tuc-bai-4.html"><img src="images/tt8.png" alt="Minh họa NOVA TOTE"></a><div class="inside"><span class="nova-pill">Truyền thông thương hiệu</span><h2><a href="tin-tuc-bai-4.html">NOVA TOTE chia sẻ định hướng kết nối cùng cộng đồng yêu thời trang</a></h2><p>Bài viết truyền thông thương hiệu</p><a href="tin-tuc-bai-4.html">Đọc bài viết →</a></div></article></div></section></main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container footer-grid">
+
+    <div>
+      <h2>NOVA TOTE</h2>
+      <p>Mở rộng không gian, mở rộng trải nghiệm.</p>
+      <p>Người bạn đồng hành trong những hành trình của bạn.</p>
+    </div>
+
+    <div>
+      <h3>KHÁM PHÁ</h3>
+      <a href="index.html">Trang chủ</a>
+      <a href="cau-chuyen.html">Câu chuyện</a>
+      <a href="san-pham.html">Sản phẩm</a>
+    </div>
+
+    <div>
+      <h3>THÔNG TIN</h3>
+      <a href="blog.html">Blog</a>
+      <a href="tin-tuc.html">Tin tức</a>
+      <a href="lien-he.html">Liên hệ</a>
+    </div>
+
+    <div>
+      <h3>KẾT NỐI</h3>
+      <p>Email: novatote.office@gmail.com</p>
+      <div class="nova-social-links"><a href="https://www.facebook.com/people/NOVA-TOTE/61594770715502/" target="_blank" rel="noopener noreferrer">Facebook</a><a href="https://www.instagram.com/novatote.official/" target="_blank" rel="noopener noreferrer">Instagram</a><a href="https://www.tiktok.com/@novatote.official.vn" target="_blank" rel="noopener noreferrer">TikTok</a></div>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    © 2026 NOVA TOTE. All rights reserved.
+  </div>
+</footer>
+
+<!-- GIỎ HÀNG DÙNG CHUNG -->
+<div class="cart-overlay" id="cartOverlay"></div>
+
+<aside class="cart-drawer" id="cartDrawer"
+       role="dialog"
+       aria-modal="true"
+       aria-label="Giỏ hàng"
+       aria-hidden="true">
+
+  <div class="cart-header">
+    <h2>GIỎ HÀNG CỦA BẠN</h2>
+    <button id="cartClose" aria-label="Đóng giỏ hàng">✕</button>
+  </div>
+
+  <div class="cart-items" id="cartItems">
+    <p>Giỏ hàng của bạn đang trống.</p>
+  </div>
+
+  <div class="cart-footer">
+    <div class="cart-total">
+      <span>Tạm tính</span>
+      <strong id="cartTotal">0₫</strong>
+    </div>
+
+    <p class="cart-note">Chưa bao gồm phí vận chuyển.</p>
+
+    <button class="btn btn-primary checkout-btn"
+            id="checkoutButton">
+      TIẾN HÀNH ĐẶT HÀNG
+    </button>
+
+    <button class="continue-shopping" id="continueShopping">
+      Tiếp tục mua sắm
+    </button>
+  </div>
+</aside>
+
+<a class="nova-zalo-float" href="https://zalo.me/g/elpkgfpwityr2tagzpgh" target="_blank" rel="noopener noreferrer" aria-label="Liên hệ NOVA TOTE qua Zalo">Zalo · Tư vấn</a>
+</body>
+</html>

@@ -1,0 +1,359 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Đặt hàng túi NOVA TOTE và thanh toán khi nhận hàng.">
+  <title>Thanh toán | NOVA TOTE</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="thanh-toan.css">
+
+  <script src="script.js" defer></script>
+  <script src="thanh-toan.js" defer></script>
+<style id="nova-social-style">.nova-social-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px}.nova-social-links a{color:inherit;text-decoration:underline;text-underline-offset:3px}.nova-zalo-float{position:fixed;right:20px;bottom:22px;z-index:99999;display:flex;align-items:center;justify-content:center;gap:7px;background:#0068ff;color:#fff!important;text-decoration:none!important;border-radius:999px;padding:13px 19px;font:700 15px Arial,sans-serif;box-shadow:0 6px 22px #0003;transition:transform .2s}.nova-zalo-float:hover{transform:translateY(-3px);background:#0055d4}@media(max-width:600px){.nova-zalo-float{right:12px;bottom:14px;padding:12px 15px}}</style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="announcement">
+    NOVA TOTE – MỞ RỘNG KHÔNG GIAN, MỞ RỘNG TRẢI NGHIỆM
+  </div>
+
+  <div class="header-inner container">
+    <a href="index.html" class="brand">
+      <img src="images/logo.png" alt="Logo NOVA TOTE"
+           onerror="this.style.display='none'">
+      <span>NOVA TOTE</span>
+    </a>
+
+    <button class="menu-toggle" id="menuToggle"
+            aria-label="Mở menu" aria-expanded="false">☰</button>
+
+    <nav class="main-nav" id="mainNav" aria-label="Menu chính">
+      <a href="index.html">Trang chủ</a>
+      <a href="cau-chuyen.html">Câu chuyện</a>
+      <a href="san-pham.html">Sản phẩm</a>
+      <a href="blog.html">Blog</a>
+      <a href="tin-tuc.html">Tin tức</a>
+      <a href="lien-he.html">Liên hệ</a>
+    </nav>
+
+    <button class="cart-trigger" id="cartOpen" aria-label="Mở giỏ hàng">
+      <svg width="25" height="25" viewBox="0 0 24 24"
+           fill="none" stroke="currentColor"
+           stroke-width="1.8" stroke-linecap="round"
+           stroke-linejoin="round">
+        <circle cx="9" cy="21" r="1"></circle>
+        <circle cx="20" cy="21" r="1"></circle>
+        <path d="M1 1h4l2.5 13h13l2-9H6"></path>
+      </svg>
+      <span class="cart-count" id="cartCount">0</span>
+    </button>
+  </div>
+</header>
+
+<main>
+
+  <!-- BANNER -->
+  <section class="checkout-hero">
+    <div class="container">
+      <span class="eyebrow">NOVA TOTE CHECKOUT</span>
+      <h1>THANH TOÁN & ĐẶT HÀNG</h1>
+      <p>Hoàn tất thông tin để NOVA TOTE tiếp nhận đơn hàng của bạn.</p>
+    </div>
+  </section>
+
+  <!-- BREADCRUMB -->
+  <div class="container checkout-breadcrumb">
+    <a href="index.html">Trang chủ</a>
+    <span>/</span>
+    <a href="san-pham.html">Sản phẩm</a>
+    <span>/</span>
+    <strong>Thanh toán</strong>
+  </div>
+
+  <section class="checkout-section">
+    <div class="container">
+
+      <div class="checkout-heading">
+        <span class="eyebrow">COMPLETE YOUR ORDER</span>
+        <h2>HOÀN TẤT ĐƠN HÀNG</h2>
+        <p>Kiểm tra sản phẩm và nhập thông tin giao hàng bên dưới.</p>
+      </div>
+
+      <div class="checkout-layout">
+
+        <!-- FORM THÔNG TIN KHÁCH HÀNG -->
+        <div class="checkout-form-panel">
+          <form id="novaCheckoutForm"
+                action="https://formsubmit.co/novatote.office@gmail.com"
+                method="POST">
+
+            <!-- CẤU HÌNH GỬI EMAIL -->
+            <input type="hidden" name="_subject"
+                   value="NOVA TOTE - Đơn đặt hàng mới">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_captcha" value="true">
+
+            <input type="text" name="_honey"
+                   tabindex="-1" autocomplete="off"
+                   class="checkout-honeypot">
+
+            <!-- THÔNG TIN ĐƠN HÀNG GỬI QUA EMAIL -->
+            <input type="hidden" name="Ma don hang" id="orderCode">
+            <input type="hidden" name="Chi tiet san pham" id="orderDetails">
+            <input type="hidden" name="Tong tien hang" id="orderSubtotal">
+            <input type="hidden" name="Phi van chuyen" id="orderShipping">
+            <input type="hidden" name="Tong thanh toan" id="orderTotal">
+            <input type="hidden" name="Phuong thuc thanh toan"
+                   value="COD - Thanh toán khi nhận hàng">
+
+            <div class="checkout-panel-heading">
+              <span class="checkout-step">01</span>
+              <div>
+                <h2>THÔNG TIN NHẬN HÀNG</h2>
+                <p>Vui lòng nhập chính xác để shop liên hệ giao hàng.</p>
+              </div>
+            </div>
+
+            <div class="checkout-fields">
+
+              <div class="checkout-field">
+                <label for="customerName">Họ và tên <span>*</span></label>
+                <input type="text" id="customerName"
+                       name="Ten khach hang"
+                       placeholder="Nguyễn Văn A"
+                       autocomplete="name" required>
+              </div>
+
+              <div class="checkout-field-row">
+                <div class="checkout-field">
+                  <label for="customerPhone">Số điện thoại <span>*</span></label>
+                  <input type="tel" id="customerPhone"
+                         name="So dien thoai"
+                         placeholder="09xxxxxxxx"
+                         inputmode="tel"
+                         pattern="0[0-9]{9}"
+                         title="Nhập 10 chữ số, bắt đầu bằng số 0"
+                         autocomplete="tel" required>
+                </div>
+
+                <div class="checkout-field">
+                  <label for="customerEmail">Email <span>*</span></label>
+                  <input type="email" id="customerEmail"
+                         name="email"
+                         placeholder="example@gmail.com"
+                         autocomplete="email" required>
+                </div>
+              </div>
+
+              <div class="checkout-field-row">
+                <div class="checkout-field">
+                  <label for="customerProvince">Tỉnh / Thành phố <span>*</span></label>
+                  <input type="text" id="customerProvince"
+                         name="Tinh thanh pho"
+                         placeholder="Nhập tỉnh / thành phố"
+                         autocomplete="address-level1" required>
+                </div>
+
+                <div class="checkout-field">
+                  <label for="customerWard">Phường / Xã <span>*</span></label>
+                  <input type="text" id="customerWard"
+                         name="Phuong xa"
+                         placeholder="Nhập phường / xã"
+                         autocomplete="address-level2" required>
+                </div>
+              </div>
+
+              <div class="checkout-field">
+                <label for="customerAddress">Địa chỉ cụ thể <span>*</span></label>
+                <input type="text" id="customerAddress"
+                       name="Dia chi cu the"
+                       placeholder="Số nhà, tên đường, tòa nhà..."
+                       autocomplete="street-address" required>
+              </div>
+
+              <div class="checkout-field">
+                <label for="customerNote">Ghi chú đơn hàng</label>
+                <textarea id="customerNote"
+                          name="Ghi chu"
+                          rows="4"
+                          placeholder="Ví dụ: Giao giờ hành chính, gọi trước khi giao..."></textarea>
+              </div>
+
+            </div>
+
+            <!-- PHƯƠNG THỨC THANH TOÁN -->
+            <div class="checkout-payment">
+              <div class="checkout-panel-heading">
+                <span class="checkout-step">02</span>
+                <div>
+                  <h2>PHƯƠNG THỨC THANH TOÁN</h2>
+                  <p>Lựa chọn phương thức thanh toán cho đơn hàng.</p>
+                </div>
+              </div>
+
+              <div class="checkout-payment-option">
+                <input type="radio" id="paymentCOD"
+                       name="paymentChoice"
+                       value="cod" checked required>
+                <label for="paymentCOD">
+                  <strong>Thanh toán khi nhận hàng (COD)</strong>
+                  <span>Thanh toán cho đơn vị vận chuyển khi nhận hàng.</span>
+                </label>
+              </div>
+            </div>
+
+            <label class="checkout-consent">
+              <input type="checkbox" id="checkoutConsent" required>
+              <span>
+                Tôi xác nhận thông tin đặt hàng chính xác và đồng ý
+                để NOVA TOTE sử dụng thông tin này nhằm xử lý,
+                liên hệ và giao đơn hàng.
+              </span>
+            </label>
+
+            <p id="checkoutError" class="checkout-error"
+               role="alert" hidden></p>
+
+            <button type="submit" class="checkout-submit"
+                    id="placeOrderButton">
+              XÁC NHẬN ĐẶT HÀNG →
+            </button>
+
+            <p class="checkout-disclaimer">
+              Shop sẽ liên hệ xác nhận đơn và thông báo phí vận chuyển
+              trước khi tiến hành giao hàng.
+            </p>
+
+          </form>
+        </div>
+
+        <!-- TÓM TẮT ĐƠN HÀNG -->
+        <aside class="checkout-summary">
+          <div class="checkout-summary-header">
+            <h2>ĐƠN HÀNG CỦA BẠN</h2>
+            <span id="checkoutItemCount">0 sản phẩm</span>
+          </div>
+
+          <div id="checkoutProducts" class="checkout-products">
+            <p>Đang tải giỏ hàng...</p>
+          </div>
+
+          <div class="checkout-summary-totals">
+            <div>
+              <span>Tạm tính</span>
+              <strong id="checkoutSubtotal">0₫</strong>
+            </div>
+            <div>
+              <span>Phí vận chuyển</span>
+              <span>Thông báo sau</span>
+            </div>
+            <div class="checkout-grand-total">
+              <span>Tổng tiền hàng</span>
+              <strong id="checkoutGrandTotal">0₫</strong>
+            </div>
+          </div>
+
+          <div class="checkout-summary-note">
+            Phí vận chuyển chưa được cộng vào tổng tiền hàng.
+            Shop sẽ thông báo mức phí trước khi xác nhận giao.
+          </div>
+
+          <a href="san-pham.html" class="checkout-back-shop">
+            ← Tiếp tục mua sắm
+          </a>
+        </aside>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CAM KẾT -->
+  <section class="checkout-benefits">
+    <div class="container checkout-benefits-grid">
+      <div>
+        <span>✧</span>
+        <h3>THÔNG TIN RÕ RÀNG</h3>
+        <p>Kiểm tra đơn hàng trước khi xác nhận.</p>
+      </div>
+      <div>
+        <span>♡</span>
+        <h3>HỖ TRỢ KHÁCH HÀNG</h3>
+        <p>Liên hệ shop nếu cần tư vấn thêm.</p>
+      </div>
+      <div>
+        <span>✦</span>
+        <h3>THANH TOÁN COD</h3>
+        <p>Thanh toán khi nhận hàng theo đơn được xác nhận.</p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <h2>NOVA TOTE</h2>
+      <p>Mở rộng không gian, mở rộng trải nghiệm.</p>
+      <p>Người bạn đồng hành trong những hành trình của bạn.</p>
+    </div>
+    <div>
+      <h3>KHÁM PHÁ</h3>
+      <a href="index.html">Trang chủ</a>
+      <a href="cau-chuyen.html">Câu chuyện</a>
+      <a href="san-pham.html">Sản phẩm</a>
+    </div>
+    <div>
+      <h3>THÔNG TIN</h3>
+      <a href="blog.html">Blog</a>
+      <a href="tin-tuc.html">Tin tức</a>
+      <a href="lien-he.html">Liên hệ</a>
+    </div>
+      <div>
+        <h3>KẾT NỐI</h3>
+        <p>Địa chỉ: 2A2 QL1A, Thới An, Hồ Chí Minh</p>
+        <p>Số điện thoại: 036.505.4260</p>
+        <p>Email: novatote.office@gmail.com</p>
+        <div class="nova-social-links"><a href="https://www.facebook.com/people/NOVA-TOTE/61594770715502/" target="_blank" rel="noopener noreferrer">Facebook</a><a href="https://www.instagram.com/novatote.official/" target="_blank" rel="noopener noreferrer">Instagram</a><a href="https://www.tiktok.com/@novatote.official.vn" target="_blank" rel="noopener noreferrer">TikTok</a></div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © 2026 NOVA TOTE. All rights reserved.
+    </div>
+<div class="container"><div class="nova-social-links"><a href="https://www.facebook.com/people/NOVA-TOTE/61594770715502/" target="_blank" rel="noopener noreferrer">Facebook</a><a href="https://www.instagram.com/novatote.official/" target="_blank" rel="noopener noreferrer">Instagram</a><a href="https://www.tiktok.com/@novatote.official.vn" target="_blank" rel="noopener noreferrer">TikTok</a></div></div></footer>
+
+<!-- GIỎ HÀNG DÙNG CHUNG -->
+<div class="cart-overlay" id="cartOverlay"></div>
+<aside class="cart-drawer" id="cartDrawer"
+       role="dialog" aria-modal="true"
+       aria-label="Giỏ hàng" aria-hidden="true">
+  <div class="cart-header">
+    <h2>GIỎ HÀNG CỦA BẠN</h2>
+    <button id="cartClose" aria-label="Đóng giỏ hàng">✕</button>
+  </div>
+  <div class="cart-items" id="cartItems"></div>
+  <div class="cart-footer">
+    <div class="cart-total">
+      <span>Tạm tính</span>
+      <strong id="cartTotal">0₫</strong>
+    </div>
+    <p class="cart-note">Chưa bao gồm phí vận chuyển.</p>
+    <button class="btn btn-primary checkout-btn" id="checkoutButton">
+      TIẾN HÀNH ĐẶT HÀNG
+    </button>
+    <button class="continue-shopping" id="continueShopping">
+      Tiếp tục mua sắm
+    </button>
+  </div>
+</aside>
+
+<a class="nova-zalo-float" href="https://zalo.me/g/elpkgfpwityr2tagzpgh" target="_blank" rel="noopener noreferrer" aria-label="Liên hệ NOVA TOTE qua Zalo">Zalo · Tư vấn</a>
+</body>
+</html>
