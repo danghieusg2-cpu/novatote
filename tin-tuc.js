@@ -5,7 +5,7 @@
 
 const NEWS_POSTS = {
   "1": {
-    title: "NOVA TOTE – Khi chiếc túi tote trở thành phụ kiện quen thuộc của giới trẻ",
+    title: "Kênh 14 - NOVA TOTE Khi chiếc túi tote trở thành phụ kiện quen thuộc của giới trẻ",
     date: "25/10/2026",
     author: "NOVA TOTE",
     image: "images/news-1.jpg",
@@ -171,7 +171,7 @@ const NEWS_POSTS = {
   },
 
   "2": {
-    title: "Xu hướng sử dụng túi tote trong thời trang và cuộc sống hiện đại",
+    title: "Kênh 14 - Xu hướng sử dụng túi tote trong thời trang và cuộc sống hiện đại",
     date: "21/10/2026",
     author: "NOVA TOTE",
     image: "images/news-2.jpg",
@@ -316,7 +316,7 @@ const NEWS_POSTS = {
   },
 
   "3": {
-    title: "NOVA TOTE và hành trình xây dựng phong cách thương hiệu riêng",
+    title: "Kênh 14 - NOVA TOTE và hành trình xây dựng phong cách thương hiệu riêng",
     date: "16/10/2026",
     author: "NOVA TOTE",
     image: "images/news-3.jpg",
@@ -453,7 +453,7 @@ const NEWS_POSTS = {
   },
 
   "4": {
-    title: "Khám phá bộ sưu tập túi tote dành cho học tập, công việc và dạo phố",
+    title: "Kênh 14 - Khám phá bộ sưu tập túi tote dành cho học tập, công việc và dạo phố",
     date: "09/10/2026",
     author: "NOVA TOTE",
     image: "images/news-4.jpg",
