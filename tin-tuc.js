@@ -135,57 +135,123 @@ const NEWS_POSTS = {
     image: "images/news-3.jpg",
     content: `
 
-<p>Trong thị trường thời trang ngày càng đa dạng, việc xây dựng bản sắc riêng là yếu tố quan trọng giúp một thương hiệu tạo dấu ấn với khách hàng. Không chỉ chú trọng đến sản phẩm, các thương hiệu trẻ còn hướng đến việc truyền tải phong cách sống và những giá trị gần gũi với người tiêu dùng. Với tinh thần đó, <strong>NOVA TOTE</strong> từng bước xây dựng hình ảnh thương hiệu túi tote trẻ trung, hiện đại và phù hợp với nhịp sống năng động của giới trẻ.</p>
+<p>
+      Trong thị trường phụ kiện thời trang ngày càng đa dạng, một thương hiệu
+      muốn tạo dấu ấn không chỉ cần sở hữu sản phẩm có thiết kế đẹp mà còn
+      phải xác định rõ giá trị mình muốn mang đến cho khách hàng. Với
+      NOVA TOTE, định hướng được xây dựng xoay quanh sự giao thoa giữa
+      thời trang và công năng, nơi một chiếc túi tote không chỉ phục vụ
+      nhu cầu sử dụng hằng ngày mà còn trở thành phương tiện thể hiện
+      phong cách cá nhân.
+    </p>
 
-<h2>1. NOVA TOTE – Khởi đầu từ những nhu cầu giản dị</h2>
+    <h2>Bắt đầu từ nhu cầu thực tế của người dùng</h2>
 
-<p>Ý tưởng phát triển NOVA TOTE được định hướng từ nhu cầu sử dụng những chiếc túi vừa tiện lợi vừa có tính thẩm mỹ trong cuộc sống hằng ngày. Đối với nhiều bạn trẻ, một chiếc túi không chỉ dùng để mang theo vật dụng cá nhân mà còn là phụ kiện góp phần thể hiện phong cách riêng.</p>
+    <p>
+      Cuộc sống hiện đại khiến lịch trình của nhiều người trở nên linh
+      hoạt hơn. Một ngày có thể bắt đầu bằng việc đến trường, tiếp tục
+      với công việc, sau đó là buổi tập luyện hoặc cuộc hẹn cùng bạn bè.
+      Khi phải di chuyển giữa nhiều hoạt động, người dùng cần một chiếc
+      túi đủ tiện lợi để mang theo vật dụng cần thiết nhưng vẫn phù hợp
+      với trang phục và hoàn cảnh.
+    </p>
 
-<p>Từ định hướng đó, NOVA TOTE lựa chọn túi tote làm sản phẩm trọng tâm, hướng đến những thiết kế đơn giản, dễ phối đồ và phù hợp với nhiều hoàn cảnh như đi học, đi làm, dạo phố hoặc gặp gỡ bạn bè.</p>
+    <p>
+      Từ nhu cầu đó, NOVA TOTE hướng đến dòng túi tote có khả năng thích
+      ứng với nhiều tình huống sử dụng. Thay vì chỉ tập trung vào hình
+      thức bên ngoài, sản phẩm được định hướng phát triển theo tinh thần
+      thời trang đi cùng sự tiện dụng. Kiểu dáng trẻ trung, chất liệu
+      trần bông và những gam màu dễ phối đồ góp phần tạo nên diện mạo
+      mềm mại, gần gũi với phong cách sống năng động.
+    </p>
 
-<h2>2. Xây dựng bản sắc thương hiệu từ sự đơn giản và hiện đại</h2>
+    <p>
+      Đây cũng là cách NOVA TOTE tiếp cận khách hàng: bắt đầu từ những
+      nhu cầu quen thuộc trong đời sống, sau đó tìm kiếm giải pháp
+      giúp việc sử dụng túi trở nên thuận tiện hơn.
+    </p>
 
-<p>Giữa nhiều phong cách thời trang khác nhau, <strong>NOVA TOTE</strong> lựa chọn sự tối giản, trẻ trung và linh hoạt làm định hướng phát triển hình ảnh thương hiệu.</p>
+    <h2>Tạo dấu ấn từ thiết kế và công năng</h2>
 
-<p>Thay vì tập trung vào những thiết kế quá cầu kỳ, thương hiệu hướng đến việc kết hợp tính ứng dụng với yếu tố thời trang. Những chiếc túi tote có kiểu dáng gần gũi và màu sắc dễ phối đồ được xem là lựa chọn phù hợp với nhu cầu của người trẻ hiện đại.</p>
+    <p>
+      Một trong những điểm nổi bật trong định hướng sản phẩm của NOVA TOTE
+      là thiết kế ngăn đáy có khóa kéo riêng biệt. Với những chiếc túi
+      chỉ có một ngăn lớn, việc mang theo nhiều nhóm đồ khác nhau đôi
+      khi khiến người dùng gặp khó khăn trong quá trình sắp xếp.
+      Đồ tập, giày dép hoặc vật dụng đã qua sử dụng có thể bị đặt
+      chung với quần áo sạch và những đồ dùng cá nhân khác.
+    </p>
 
-<p>Thông qua phong cách này, NOVA TOTE mong muốn xây dựng hình ảnh một thương hiệu phụ kiện thân thiện, dễ tiếp cận và có thể đồng hành cùng khách hàng trong nhiều hoạt động thường ngày.</p>
+    <p>
+      NOVA TOTE hướng đến việc giải quyết bất tiện này bằng cách bổ sung
+      không gian chứa đồ riêng ở đáy túi. Người dùng có thể tận dụng
+      ngăn này để đựng giày dép hoặc các vật dụng muốn để riêng,
+      đặc biệt trong những buổi tập thể thao hay chuyến đi ngắn.
+      Thiết kế giúp việc sắp xếp hành lý trở nên có tổ chức hơn
+      mà không làm mất đi tinh thần thời trang của một chiếc tote.
+    </p>
 
-<h2>3. Lấy phong cách sống của giới trẻ làm nguồn cảm hứng</h2>
+    <p>
+      Thông qua chi tiết này, NOVA TOTE thể hiện định hướng phát triển
+      sản phẩm dựa trên trải nghiệm sử dụng thực tế. Sự khác biệt
+      không nhất thiết phải đến từ những thiết kế phức tạp,
+      mà có thể bắt đầu từ việc nhận diện một bất tiện quen thuộc
+      và đưa ra giải pháp phù hợp.
+    </p>
 
-<p>Giới trẻ ngày nay có nhu cầu thể hiện cá tính thông qua trang phục, phụ kiện và những lựa chọn trong cuộc sống. Một chiếc túi tote có thể trở thành điểm nhấn giúp hoàn thiện phong cách, dù người dùng yêu thích sự năng động, thanh lịch hay tối giản.</p>
+    <h2>Thời trang là cách thể hiện bản sắc</h2>
 
-<p>Nắm bắt tinh thần đó, NOVA TOTE hướng đến việc phát triển những sản phẩm phù hợp với nhiều phong cách khác nhau. Thương hiệu mong muốn khuyến khích người trẻ tự tin lựa chọn phụ kiện theo sở thích, thay vì bị giới hạn trong một khuôn mẫu thời trang nhất định.</p>
+    <p>
+      Đối với NOVA TOTE, phong cách thương hiệu còn được thể hiện qua
+      cách sản phẩm hòa vào đời sống của người dùng. Một chiếc túi
+      màu kem có thể đi cùng trang phục công sở nhẹ nhàng;
+      túi hồng pastel phù hợp với phong cách nữ tính;
+      túi xanh nhạt mang đến vẻ trẻ trung, trong khi màu đen
+      tạo cảm giác tối giản và dễ kết hợp.
+    </p>
 
-<h2>4. Tạo dấu ấn thương hiệu thông qua trải nghiệm khách hàng</h2>
+    <p>
+      Ngoài màu sắc, người dùng còn có thể tạo dấu ấn riêng bằng
+      cách lựa chọn phụ kiện trang trí như móc khóa.
+      Những chi tiết nhỏ này giúp chiếc túi trở nên gần gũi
+      với cá tính của từng người, thay vì chỉ là một món đồ
+      có chức năng chứa đựng.
+    </p>
 
-<p>Đối với một thương hiệu thời trang, trải nghiệm của khách hàng không chỉ đến từ thiết kế sản phẩm mà còn được hình thành trong quá trình tìm hiểu, lựa chọn và sử dụng.</p>
+    <p>
+      NOVA TOTE hướng đến tinh thần sáng tạo, bản lĩnh và khẳng định
+      phong cách cá nhân. Thương hiệu không đặt chiếc túi vào
+      một hoàn cảnh sử dụng cố định mà mở ra nhiều khả năng
+      kết hợp, từ học tập, làm việc đến du lịch và dạo phố.
+      Điều đó giúp sản phẩm gắn liền với nhịp sống đa dạng
+      của người trẻ.
+    </p>
 
-<p><strong>NOVA TOTE</strong> định hướng xây dựng trải nghiệm mua sắm gần gũi, cung cấp thông tin sản phẩm rõ ràng và giúp khách hàng dễ dàng tìm kiếm mẫu túi phù hợp với nhu cầu cá nhân.</p>
+    <h2>Mở rộng không gian, mở rộng trải nghiệm</h2>
 
-<p>Thông qua website và các kênh truyền thông trực tuyến, thương hiệu mong muốn tăng cường kết nối với khách hàng, chia sẻ những gợi ý phối đồ, cách sử dụng và bảo quản túi tote trong cuộc sống hằng ngày.</p>
+    <p>
+      Hành trình xây dựng phong cách thương hiệu riêng của NOVA TOTE
+      được thể hiện qua sự kết hợp giữa thiết kế, tính ứng dụng
+      và khả năng cá nhân hóa. Mỗi yếu tố đều hướng đến mục tiêu
+      mang lại trải nghiệm sử dụng phù hợp hơn với nhu cầu thực tế.
+    </p>
 
-<h2>5. NOVA TOTE và định hướng phát triển thương hiệu trong môi trường số</h2>
+    <p>
+      Trong thời gian tới, việc duy trì định hướng nhất quán,
+      lắng nghe nhu cầu khách hàng và phát triển nội dung
+      truyền thông gần gũi sẽ là những yếu tố quan trọng
+      giúp NOVA TOTE xây dựng hình ảnh thương hiệu rõ nét hơn.
+      Bởi một thương hiệu không chỉ được nhận diện qua logo
+      hay màu sắc, mà còn qua giá trị mà sản phẩm mang lại
+      trong đời sống hằng ngày.
+    </p>
 
-<p>Trong bối cảnh thương mại điện tử ngày càng phát triển, các nền tảng trực tuyến mang đến nhiều cơ hội để thương hiệu trẻ tiếp cận khách hàng và giới thiệu sản phẩm.</p>
-
-<p>NOVA TOTE hướng đến việc xây dựng sự hiện diện trên các kênh kỹ thuật số, trong đó website đóng vai trò giới thiệu thương hiệu, cung cấp thông tin sản phẩm và chia sẻ nội dung liên quan đến thời trang túi tote.</p>
-
-<p>Bên cạnh đó, các nền tảng mạng xã hội như Facebook và Instagram là những kênh phù hợp để thương hiệu truyền tải hình ảnh, cập nhật thông tin và kết nối với cộng đồng yêu thích phong cách thời trang trẻ trung.</p>
-
-<h2>6. Không chỉ là chiếc túi, mà còn là câu chuyện phong cách</h2>
-
-<p>Mỗi chiếc túi đều có thể gắn liền với những trải nghiệm riêng của người sử dụng. Đó có thể là hành trình đến trường, một ngày làm việc bận rộn hay chuyến đi chơi cùng bạn bè.</p>
-
-<p>Với NOVA TOTE, chiếc túi tote không chỉ mang giá trị sử dụng mà còn đại diện cho tinh thần tự do, linh hoạt và sự tự tin thể hiện bản thân.</p>
-
-<p>Thương hiệu mong muốn thông qua những thiết kế gần gũi, mỗi khách hàng đều có thể tìm thấy một chiếc túi phù hợp với phong cách và câu chuyện của riêng mình.</p>
-
-<h2>7. Hướng đến tương lai với bản sắc thương hiệu riêng</h2>
-
-<p>Hành trình xây dựng thương hiệu là quá trình cần sự nhất quán trong định hướng sản phẩm, hình ảnh và cách kết nối với khách hàng. Đối với NOVA TOTE, việc duy trì phong cách trẻ trung, đơn giản và tiện dụng là nền tảng để từng bước phát triển hình ảnh thương hiệu.</p>
-
-<p>Trong thời gian tới, NOVA TOTE định hướng tiếp tục hoàn thiện trải nghiệm khách hàng, phát triển nội dung truyền thông và tìm kiếm những ý tưởng sản phẩm phù hợp với nhu cầu của giới trẻ.</p>
+    <p>
+      Với tinh thần đó, NOVA TOTE mong muốn trở thành người bạn
+      đồng hành của những người trẻ yêu thích sự linh hoạt,
+      đề cao tính tiện dụng nhưng vẫn quan tâm đến diện mạo
+      và phong cách cá nhân.
+    </p>
 
 <h2>NOVA TOTE – Mang Theo Phong Cách, Mở Rộng Trải Nghiệm</h2>
 
