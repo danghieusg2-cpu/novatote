@@ -11,45 +11,151 @@ const NEWS_POSTS = {
     image: "images/news-1.jpg",
     content: `
 
-<p>Trong những năm gần đây, túi tote dần trở thành một trong những phụ kiện thời trang được giới trẻ yêu thích nhờ thiết kế đơn giản, tiện dụng và dễ dàng kết hợp với nhiều phong cách khác nhau. Không chỉ phục vụ nhu cầu mang theo vật dụng cá nhân, túi tote còn góp phần thể hiện cá tính và phong cách sống năng động. Nắm bắt xu hướng đó, <strong>NOVA TOTE</strong> hướng đến việc mang đến những chiếc túi trẻ trung, linh hoạt và phù hợp với nhịp sống hiện đại.</p>
+<p>
+      Đối với giới trẻ, thời trang không chỉ là cách lựa chọn trang phục
+      mà còn là phương tiện thể hiện cá tính, sở thích và lối sống.
+      Những món phụ kiện được sử dụng hằng ngày vì thế cũng mang ý nghĩa
+      nhiều hơn công năng vốn có. Trong số đó, túi tote là một lựa chọn
+      quen thuộc nhờ kiểu dáng dễ sử dụng, khả năng kết hợp với nhiều
+      trang phục và sự linh hoạt trong các hoạt động thường ngày.
+      Với NOVA TOTE, chiếc túi được phát triển theo định hướng kết hợp
+      vẻ ngoài thời trang với những tiện ích phục vụ nhu cầu thực tế
+      của người dùng trẻ.
+    </p>
 
-<h2>Túi tote – Từ vật dụng đơn giản đến phụ kiện thời trang</h2>
+    <h2>Chiếc túi đồng hành trong nhiều khoảnh khắc</h2>
 
-<p>Trước đây, túi tote thường được biết đến như một loại túi có thiết kế đơn giản, phục vụ nhu cầu đựng đồ dùng hằng ngày. Tuy nhiên, cùng với sự phát triển của xu hướng thời trang tối giản, túi tote ngày càng xuất hiện phổ biến trong phong cách ăn mặc của giới trẻ.</p>
+    <p>
+      Lịch trình của người trẻ thường không chỉ gói gọn trong một hoạt động.
+      Buổi sáng có thể là giờ học trên giảng đường, buổi chiều dành cho
+      công việc hoặc những cuộc hẹn, còn buổi tối là thời gian tập luyện
+      và thư giãn. Trong nhịp sống đó, một chiếc túi có khả năng chứa
+      nhiều vật dụng và phù hợp với nhiều hoàn cảnh sẽ trở thành lựa chọn
+      đáng cân nhắc.
+    </p>
 
-<p>Với kiểu dáng linh hoạt, túi tote có thể kết hợp cùng áo thun, quần jeans, váy hoặc trang phục công sở. Chính sự tiện lợi và khả năng ứng dụng trong nhiều hoàn cảnh đã giúp loại túi này trở thành lựa chọn quen thuộc của học sinh, sinh viên và nhân viên văn phòng.</p>
+    <p>
+      Túi tote đáp ứng phần nào nhu cầu này nhờ thiết kế đơn giản và
+      không gian chứa đồ tương đối rộng. Khi đến trường, người dùng
+      có thể mang theo sách vở, sổ tay và các vật dụng cá nhân.
+      Khi đi làm, chiếc túi có thể đồng hành cùng tài liệu và đồ dùng
+      cần thiết. Trong những buổi cà phê hay dạo phố cuối tuần,
+      túi tote tiếp tục phát huy vai trò của một phụ kiện thời trang
+      dễ kết hợp với trang phục thường ngày.
+    </p>
 
-<h2>NOVA TOTE – Mang đến sự kết hợp giữa thời trang và tiện ích</h2>
+    <p>
+      NOVA TOTE hướng đến tinh thần sử dụng linh hoạt đó.
+      Sản phẩm được định hướng để phù hợp với nhiều hoạt động,
+      giúp người dùng không phải thay đổi phụ kiện quá nhiều khi
+      chuyển từ hoàn cảnh này sang hoàn cảnh khác. Đây cũng là
+      một trong những yếu tố khiến túi tote trở thành món đồ
+      gần gũi với phong cách sống năng động.
+    </p>
 
-<p>Xuất phát từ nhu cầu sử dụng túi tote trong cuộc sống thường ngày, <strong>NOVA TOTE</strong> định hướng phát triển những sản phẩm có thiết kế trẻ trung, đơn giản và dễ sử dụng.</p>
+    <h2>Thiết kế trẻ trung, dễ thể hiện cá tính</h2>
 
-<p>Thương hiệu chú trọng đến sự hài hòa giữa tính thẩm mỹ và công năng, hướng đến những chiếc túi có thể đồng hành cùng người dùng trong nhiều hoạt động như đi học, đi làm, mua sắm hoặc gặp gỡ bạn bè.</p>
+    <p>
+      Một chiếc túi có thể tạo nên sự khác biệt cho tổng thể trang phục
+      dù không cần quá nhiều chi tiết cầu kỳ. Hiểu được vai trò đó,
+      NOVA TOTE hướng đến những thiết kế có diện mạo trẻ trung,
+      kết hợp chất liệu trần bông và các gam màu dễ lựa chọn.
+    </p>
 
-<p>Không chạy theo những chi tiết quá cầu kỳ, NOVA TOTE lựa chọn phong cách thiết kế gần gũi, dễ phối đồ, giúp người dùng thể hiện cá tính một cách tự nhiên.</p>
+    <p>
+      Tông màu kem phù hợp với những người yêu thích vẻ thanh lịch
+      và nhẹ nhàng. Màu hồng pastel tạo cảm giác nữ tính,
+      trong khi xanh nhạt đem lại nét tươi trẻ. Đối với người
+      ưa chuộng phong cách tối giản, màu đen có thể dễ dàng
+      kết hợp cùng nhiều kiểu trang phục khác nhau.
+    </p>
 
-<h2>Phụ kiện phù hợp với nhịp sống năng động của thế hệ trẻ</h2>
+    <p>
+      Ngoài màu sắc, việc trang trí túi bằng móc khóa hoặc phụ kiện
+      nhỏ cũng là một cách để người dùng thể hiện sở thích riêng.
+      Một chiếc túi được cá nhân hóa bằng những chi tiết phù hợp
+      có thể trở nên gần gũi hơn với chủ nhân, đồng thời tạo
+      điểm nhấn cho phong cách thường ngày.
+    </p>
 
-<p>Đối với giới trẻ hiện đại, một chiếc túi lý tưởng không chỉ cần đẹp mà còn phải thuận tiện trong quá trình sử dụng. Từ những buổi học trên giảng đường đến các cuộc hẹn cuối tuần, túi tote có thể đáp ứng nhiều nhu cầu khác nhau.</p>
+    <p>
+      Với người trẻ, giá trị của phụ kiện không chỉ nằm ở việc
+      sử dụng được bao lâu hay mang được bao nhiêu đồ,
+      mà còn ở cảm giác phù hợp khi mang theo. Một chiếc túi
+      có thiết kế hợp gu sẽ giúp người dùng tự tin hơn
+      trong những hoạt động thường ngày.
+    </p>
 
-<p>Với thiết kế hướng đến tính linh hoạt, <strong>NOVA TOTE</strong> mong muốn mang đến những lựa chọn phù hợp cho người trẻ yêu thích sự gọn gàng, năng động và tự do thể hiện phong cách cá nhân.</p>
+    <h2>Tiện ích giúp việc sắp xếp đồ dùng thuận tiện hơn</h2>
 
-<p>Mỗi chiếc túi không chỉ đóng vai trò là phụ kiện thời trang mà còn có thể trở thành người bạn đồng hành trong những trải nghiệm thường ngày.</p>
+    <p>
+      Bên cạnh yếu tố thẩm mỹ, nhu cầu sắp xếp đồ dùng cũng là
+      vấn đề đáng quan tâm. Khi mang theo nhiều vật dụng,
+      việc đặt tất cả trong cùng một ngăn lớn có thể khiến
+      người dùng khó phân chia đồ sạch và đồ đã sử dụng,
+      đặc biệt khi lịch trình bao gồm cả học tập,
+      làm việc và tập luyện.
+    </p>
 
-<h2>Khẳng định phong cách cá nhân qua những lựa chọn đơn giản</h2>
+    <p>
+      NOVA TOTE hướng đến giải pháp này bằng thiết kế ngăn đáy
+      có khóa kéo riêng biệt. Không gian riêng ở đáy túi có thể
+      được tận dụng để đựng giày dép, quần áo sau khi tập hoặc
+      những vật dụng mà người dùng muốn tách khỏi đồ dùng chính.
+      Chẳng hạn, sau giờ học hoặc làm việc, người dùng có thể
+      đến phòng tập mà không cần chuẩn bị thêm một chiếc túi khác,
+      tùy theo số lượng và kích thước đồ mang theo.
+    </p>
 
-<p>Thời trang không nhất thiết phải cầu kỳ để tạo nên sự khác biệt. Đôi khi, một chiếc túi tote có màu sắc phù hợp cũng đủ giúp bộ trang phục trở nên hài hòa và nổi bật hơn.</p>
+    <p>
+      Đối với những chuyến đi ngắn, thiết kế phân chia không gian
+      cũng giúp việc chuẩn bị hành lý có tổ chức hơn.
+      Người dùng có thể sắp xếp các nhóm đồ theo mục đích
+      sử dụng và chủ động hơn khi cần lấy từng vật dụng.
+    </p>
 
-<p>Với những người yêu thích phong cách tối giản, túi tote màu trung tính mang đến cảm giác thanh lịch và dễ kết hợp. Trong khi đó, các gam màu nổi bật lại giúp tạo điểm nhấn, thể hiện tinh thần trẻ trung và cá tính.</p>
+    <p>
+      Đây là điểm đáng chú ý của NOVA TOTE: tính tiện dụng
+      được thể hiện qua một chi tiết cụ thể, phục vụ nhu cầu
+      thực tế thay vì chỉ dừng lại ở những lời giới thiệu
+      chung về sự đa năng.
+    </p>
 
-<p>Thông qua những thiết kế của mình, NOVA TOTE mong muốn khuyến khích người trẻ tự tin lựa chọn phong cách phù hợp với sở thích và nhu cầu của bản thân.</p>
+    <h2>Túi tote và lối sống đề cao trải nghiệm</h2>
 
-<h2>NOVA TOTE – Hướng đến thương hiệu phụ kiện gần gũi với giới trẻ</h2>
+    <p>
+      Với nhiều người trẻ, một chiếc túi phù hợp là chiếc túi
+      có thể đồng hành trong những trải nghiệm quen thuộc:
+      đến lớp cùng bạn bè, hoàn thành công việc, ghé phòng tập
+      hay tận hưởng một buổi dạo phố. Chính sự hiện diện
+      trong những khoảnh khắc nhỏ đó khiến phụ kiện dần
+      trở thành một phần của lối sống.
+    </p>
 
-<p>Trong thị trường phụ kiện thời trang ngày càng đa dạng, <strong>NOVA TOTE</strong> lựa chọn định hướng xây dựng hình ảnh thương hiệu trẻ trung, gần gũi và chú trọng trải nghiệm của người sử dụng.</p>
+    <p>
+      NOVA TOTE hướng đến việc đáp ứng những nhu cầu này
+      thông qua sự kết hợp giữa thiết kế thời trang,
+      không gian chứa đồ và khả năng phân chia vật dụng.
+      Sản phẩm không chỉ tập trung vào vẻ ngoài mà còn
+      chú trọng cách người dùng tương tác với chiếc túi
+      trong từng hoàn cảnh.
+    </p>
 
-<p>Thương hiệu hướng đến việc phát triển các mẫu túi tote có tính ứng dụng cao, phù hợp với nhiều hoàn cảnh và phong cách thời trang khác nhau.</p>
+    <p>
+      Trong hành trình xây dựng phong cách cá nhân,
+      lựa chọn một chiếc túi phù hợp có thể là bước nhỏ
+      nhưng mang lại sự thuận tiện đáng kể.
+      Khi kiểu dáng, màu sắc và công năng cùng đáp ứng
+      nhu cầu, chiếc túi không chỉ là phụ kiện mà còn
+      trở thành người bạn đồng hành trong nhịp sống hằng ngày.
+    </p>
 
-<p>Không chỉ đơn thuần cung cấp sản phẩm, NOVA TOTE còn mong muốn truyền tải thông điệp về sự tự tin, tính linh hoạt và tinh thần khám phá của thế hệ trẻ trong cuộc sống hiện đại.</p>
+    <p>
+      Với tinh thần đó, NOVA TOTE mong muốn mang đến lựa chọn
+      dành cho những người trẻ yêu thích sự linh hoạt,
+      muốn thể hiện cá tính và đề cao tính tiện dụng
+      trong thời trang.
+    </p>
 
 <h2>Đồng hành cùng giới trẻ trên những hành trình mới</h2>
 
@@ -71,51 +177,132 @@ const NEWS_POSTS = {
     image: "images/news-2.jpg",
     content: `
 
-<p>Trong nhịp sống hiện đại, túi tote ngày càng được nhiều bạn trẻ lựa chọn nhờ thiết kế đơn giản, tiện dụng và khả năng kết hợp linh hoạt với nhiều phong cách thời trang. Không chỉ là vật dụng mang theo đồ dùng cá nhân, túi tote còn trở thành phụ kiện thể hiện cá tính và lối sống năng động. Nắm bắt xu hướng này, <strong>NOVA TOTE</strong> hướng đến những thiết kế trẻ trung, phù hợp với nhu cầu sử dụng hằng ngày của thế hệ mới.</p>
+<p>
+      Trong đời sống hiện đại, thời trang ngày càng gắn liền với tính linh hoạt
+      và nhu cầu sử dụng thực tế. Người tiêu dùng không chỉ quan tâm một món
+      phụ kiện có đẹp hay không, mà còn cân nhắc khả năng kết hợp trang phục,
+      không gian chứa đồ và sự thuận tiện trong quá trình di chuyển.
+      Trong bối cảnh đó, túi tote trở thành một lựa chọn được nhiều người
+      trẻ quan tâm nhờ kiểu dáng đơn giản, dễ phối đồ và phù hợp với
+      nhiều hoạt động thường ngày.
+    </p>
 
-<h2>1. Túi tote ngày càng được yêu thích trong thời trang giới trẻ</h2>
+    <h2>Túi tote và tinh thần thời trang linh hoạt</h2>
 
-<p>Sự phát triển của phong cách thời trang tối giản và năng động đã góp phần đưa túi tote trở thành phụ kiện quen thuộc trong tủ đồ của nhiều bạn trẻ. Với kiểu dáng dễ sử dụng, túi tote có thể kết hợp cùng áo thun, quần jeans, váy hoặc trang phục công sở.</p>
+    <p>
+      Điểm đặc trưng của túi tote là thiết kế tương đối đơn giản,
+      phần quai dễ sử dụng và không gian chứa đồ thường rộng rãi.
+      Nhờ đặc điểm này, túi tote có thể xuất hiện trong nhiều hoàn
+      cảnh khác nhau mà không tạo cảm giác quá cầu kỳ. Từ giảng đường,
+      văn phòng đến quán cà phê hay những chuyến đi ngắn, chiếc túi
+      đều có thể trở thành một phần của phong cách thường ngày.
+    </p>
 
-<p>Đặc biệt, những mẫu túi có thiết kế đơn giản và màu sắc hài hòa thường được lựa chọn vì dễ phối đồ, phù hợp với nhiều hoàn cảnh khác nhau. Điều này giúp túi tote không chỉ đáp ứng nhu cầu sử dụng mà còn tạo điểm nhấn cho phong cách cá nhân.</p>
+    <p>
+      Đối với sinh viên, túi tote là lựa chọn phù hợp khi cần mang theo
+      sách vở, tài liệu và các vật dụng cá nhân. Với người đi làm,
+      một chiếc túi có màu sắc trung tính và kiểu dáng gọn gàng có thể
+      kết hợp cùng trang phục công sở. Trong khi đó, những gam màu
+      pastel lại mang đến vẻ trẻ trung, nhẹ nhàng cho các buổi gặp
+      gỡ bạn bè hoặc dạo phố cuối tuần.
+    </p>
 
-<h2>2. Xu hướng thời trang tối giản thúc đẩy sự phổ biến của túi tote</h2>
+    <p>
+      Tuy nhiên, sự linh hoạt của túi tote không chỉ nằm ở vẻ ngoài.
+      Khả năng đáp ứng nhiều nhu cầu sử dụng trong cùng một ngày
+      cũng là yếu tố khiến dòng túi này được quan tâm. Khi lịch trình
+      thay đổi liên tục, một chiếc túi có thể đồng hành trong nhiều
+      hoạt động sẽ giúp người dùng chủ động hơn trong việc chuẩn bị
+      đồ dùng.
+    </p>
 
-<p>Phong cách Minimalism đang được nhiều người trẻ quan tâm bởi sự tinh tế, gọn gàng và tính ứng dụng cao. Thay vì lựa chọn những phụ kiện quá cầu kỳ, người dùng có xu hướng ưu tiên các thiết kế đơn giản nhưng vẫn đảm bảo tính thẩm mỹ.</p>
+    <h2>Khi công năng trở thành một phần của phong cách</h2>
 
-<p>Túi tote phù hợp với tinh thần này nhờ kiểu dáng thanh lịch và khả năng kết hợp cùng nhiều trang phục. Chỉ với một chiếc túi tote có màu sắc phù hợp, người dùng có thể tạo nên nhiều phong cách khác nhau mà không cần thay đổi quá nhiều phụ kiện.</p>
+    <p>
+      Cùng với nhu cầu sử dụng ngày càng đa dạng, người dùng cũng có
+      xu hướng chú ý hơn đến cách sắp xếp đồ đạc bên trong túi.
+      Một chiếc túi có không gian rộng chưa chắc đã mang lại trải
+      nghiệm thuận tiện nếu tất cả vật dụng đều được đặt chung trong
+      một ngăn. Khi mang theo nhiều nhóm đồ, việc tìm kiếm hoặc
+      tách riêng các vật dụng có thể trở nên bất tiện.
+    </p>
 
-<h2>3. Túi tote đáp ứng nhu cầu sử dụng linh hoạt trong cuộc sống</h2>
+    <p>
+      Đây là vấn đề mà những thiết kế tote chú trọng công năng có
+      thể hướng đến giải quyết. Với NOVA TOTE, điểm khác biệt nằm
+      ở ngăn đáy có khóa kéo riêng biệt, cho phép người dùng phân
+      chia một số vật dụng khỏi không gian chứa đồ chính. Chẳng hạn,
+      sau khi tập luyện, người dùng có thể đặt giày dép hoặc quần áo
+      đã sử dụng vào ngăn riêng thay vì để lẫn với sách vở và đồ
+      dùng cá nhân.
+    </p>
 
-<p>Một trong những lý do khiến túi tote được yêu thích là khả năng ứng dụng trong nhiều hoạt động hằng ngày. Từ đi học, đi làm đến mua sắm hoặc dạo phố, túi tote có thể giúp người dùng mang theo những vật dụng cần thiết một cách thuận tiện.</p>
+    <p>
+      Thiết kế này đặc biệt hữu ích với những người có lịch trình
+      kết hợp giữa học tập, làm việc và vận động. Thay vì phải mang
+      theo nhiều túi riêng biệt cho từng hoạt động, người dùng
+      có thể cân nhắc một chiếc tote đáp ứng được nhiều nhu cầu hơn.
+      Dù vậy, cách sắp xếp vẫn nên dựa trên kích thước thực tế
+      của từng vật dụng và dung tích của túi.
+    </p>
 
-<p>Đối với học sinh, sinh viên, túi tote là lựa chọn phù hợp để đựng sách vở và đồ dùng học tập. Trong khi đó, nhân viên văn phòng có thể sử dụng túi để mang theo sổ tay, ví, điện thoại và các phụ kiện cá nhân.</p>
+    <p>
+      Thông qua định hướng thiết kế này, NOVA TOTE cho thấy công năng
+      có thể trở thành một phần của trải nghiệm thời trang.
+      Sự tiện lợi không làm mất đi tính thẩm mỹ, mà ngược lại,
+      góp phần giúp sản phẩm phù hợp hơn với nhịp sống hiện đại.
+    </p>
 
-<p>Sự linh hoạt này giúp túi tote trở thành phụ kiện phù hợp với nhịp sống bận rộn của người trẻ hiện đại.</p>
+    <h2>Màu sắc và cách phối đồ tạo nên dấu ấn riêng</h2>
 
-<h2>4. Màu sắc và thiết kế túi tote trở thành điểm nhấn thời trang</h2>
+    <p>
+      Bên cạnh công năng, màu sắc là yếu tố quan trọng khi lựa chọn
+      túi tote. Những gam màu trung tính như kem và đen phù hợp với
+      nhiều kiểu trang phục, trong khi xanh nhạt và hồng pastel
+      đem đến cảm giác trẻ trung, nổi bật hơn. Việc lựa chọn màu
+      sắc phù hợp giúp người dùng dễ dàng xây dựng phong cách cá
+      nhân mà không cần quá nhiều phụ kiện đi kèm.
+    </p>
 
-<p>Bên cạnh công năng sử dụng, màu sắc và kiểu dáng cũng là những yếu tố được quan tâm khi lựa chọn túi tote. Các gam màu trung tính như đen, trắng, be hoặc xám thường mang đến cảm giác thanh lịch và dễ phối đồ.</p>
+    <p>
+      Với phong cách công sở, túi tote màu kem có thể kết hợp cùng
+      áo sơ mi, quần âu hoặc áo khoác nhẹ. Khi đi học, túi xanh
+      nhạt phối với trang phục đơn giản tạo nên vẻ ngoài năng động.
+      Trong những buổi dạo phố, túi hồng pastel có thể kết hợp cùng
+      váy hoặc trang phục có tông màu nhẹ nhàng. Nếu yêu thích sự
+      tối giản, túi đen là lựa chọn dễ phối với nhiều màu sắc khác nhau.
+    </p>
 
-<p>Trong khi đó, những mẫu túi có màu sắc nổi bật lại phù hợp với người trẻ yêu thích sự khác biệt và muốn thể hiện cá tính riêng. Việc lựa chọn túi tote theo sở thích giúp mỗi người tạo nên phong cách thời trang mang dấu ấn cá nhân.</p>
+    <p>
+      Ngoài ra, các phụ kiện trang trí như móc khóa cũng giúp chiếc
+      túi mang dấu ấn riêng. Chỉ một chi tiết nhỏ cũng có thể
+      tạo nên sự khác biệt trong cách thể hiện phong cách cá nhân.
+    </p>
 
-<h2>5. Túi tote và xu hướng tiêu dùng chú trọng tính ứng dụng</h2>
+    <h2>Lựa chọn chiếc túi phù hợp với nhịp sống</h2>
 
-<p>Người tiêu dùng hiện đại ngày càng quan tâm đến khả năng sử dụng lâu dài và sự tiện lợi của các sản phẩm thời trang. Một chiếc túi có thể sử dụng trong nhiều hoàn cảnh sẽ giúp người dùng tối ưu việc lựa chọn phụ kiện hằng ngày.</p>
+    <p>
+      Xu hướng sử dụng túi tote cho thấy người dùng ngày càng quan
+      tâm đến sự cân bằng giữa hình thức và trải nghiệm. Một chiếc
+      túi phù hợp không nhất thiết phải có thiết kế phức tạp,
+      mà cần đáp ứng được nhu cầu thực tế, phù hợp với phong cách
+      và mang lại sự thuận tiện trong quá trình sử dụng.
+    </p>
 
-<p>Nhờ thiết kế linh hoạt, túi tote có thể được sử dụng cho nhiều mục đích khác nhau. Đối với những mẫu túi có chất liệu phù hợp và được bảo quản đúng cách, người dùng còn có thể tái sử dụng trong thời gian dài, góp phần hạn chế nhu cầu thay thế phụ kiện thường xuyên.</p>
+    <p>
+      Với thiết kế trẻ trung, chất liệu trần bông và định hướng
+      công năng đa dạng, NOVA TOTE hướng đến nhóm khách hàng muốn
+      tìm kiếm một phụ kiện có thể đồng hành trong nhiều hoàn cảnh.
+      Đặc biệt, thiết kế ngăn đáy khóa kéo riêng biệt góp phần
+      tạo thêm lựa chọn cho những người thường xuyên mang theo
+      nhiều loại vật dụng.
+    </p>
 
-<h2>6. NOVA TOTE – Bắt nhịp xu hướng thời trang hiện đại</h2>
-
-<p>Trước sự quan tâm ngày càng lớn dành cho những phụ kiện tiện dụng và dễ phối đồ, <strong>NOVA TOTE</strong> định hướng xây dựng hình ảnh thương hiệu gắn liền với phong cách sống trẻ trung, năng động và hiện đại.</p>
-
-<p>Thương hiệu hướng đến những mẫu túi tote có thiết kế đơn giản, dễ sử dụng và phù hợp với nhiều hoạt động trong cuộc sống. NOVA TOTE mong muốn mỗi chiếc túi không chỉ đáp ứng nhu cầu mang theo đồ dùng mà còn giúp người dùng tự tin thể hiện phong cách riêng.</p>
-
-<h2>7. Túi tote – Phụ kiện đồng hành cùng phong cách sống tương lai</h2>
-
-<p>Với sự kết hợp giữa thời trang và tính tiện dụng, túi tote có tiềm năng tiếp tục giữ vị trí quen thuộc trong lựa chọn phụ kiện của giới trẻ. Những thiết kế linh hoạt, dễ phối đồ và phù hợp với nhu cầu sử dụng thực tế sẽ tiếp tục có sức hút đối với người tiêu dùng.</p>
-
-<p>Trong xu hướng đó, <strong>NOVA TOTE</strong> mong muốn đồng hành cùng người trẻ trên hành trình học tập, làm việc và khám phá cuộc sống, mang đến những lựa chọn phụ kiện gần gũi và phù hợp với phong cách cá nhân.</p>
+    <p>
+      Khi thời trang không còn chỉ là câu chuyện về diện mạo,
+      những sản phẩm kết hợp được thẩm mỹ và tính ứng dụng sẽ
+      có thêm cơ hội trở thành một phần trong đời sống hằng ngày.
+    </p>
 
 <h2>NOVA TOTE – Mang theo phong cách, mở rộng trải nghiệm</h2>
 
